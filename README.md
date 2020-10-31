@@ -1,4 +1,4 @@
-# Numerical methods of solving nonlinear equations $f(x)=0$
+# Numerical methods of solving nonlinear equations 
 
 
 1. Bisection method
